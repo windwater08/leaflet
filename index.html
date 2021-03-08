@@ -57,8 +57,9 @@
 	}).addTo(mymap);
 
     var windSpeed = L.leafletGeotiff(
-            url='tif/wind_speed.tif',
-            options={band: 0,
+            //url='tif/wind_speed.tif',
+            url='https://www.dropbox.com/s/oxiehn5j7jntc0s/twdtm_asterV2_30m.tif?dl=0',
+	    options={band: 0,
                 displayMin: 0,
                 displayMax: 30,
                 name: 'Wind speed',
