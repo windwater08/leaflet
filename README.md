@@ -1,7 +1,7 @@
 # leaflet-geotiff
 A [LeafletJS](http://www.leafletjs.com) plugin for displaying geoTIFF raster data.  Data can drawn as colored rasters or directon arrows.  The layer can be clipped using a polygon.
 
-**[DEMO](https://stuartmatthews.github.io/leaflet-geotiff/)**
+**[DEMO](https://windwater08.github.io/leaflet-geotiff/)**
 
 ![Sample](https://stuartmatthews.github.io/leaflet-geotiff/example.png)
 
